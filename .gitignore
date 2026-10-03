@@ -1,0 +1,16 @@
+# Python virtual environments
+.venv/
+.venv_uv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code local settings
+.vscode/
+
+# Large YOLO model
+yolo11n.pt
+
+# Generated output video
+yolo_detected_output.mp4
